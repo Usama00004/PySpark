@@ -4,9 +4,9 @@
 Welcome to the **PySpark Learning Repository**!  
 This repository is designed to help you learn, practice, and master PySpark through clear explanations, examples, and hands-on exercises.
 
----
+-
 
-## 🚀 Purpose of This Repository
+## Purpose of This Repository
 
 This repository serves as a structured learning path for PySpark, covering:
 
@@ -19,8 +19,8 @@ This repository serves as a structured learning path for PySpark, covering:
 - Working with large datasets  
 - Integration with cloud platforms (optional)
 
----
-## 🧰 Requirements
+-
+##  Requirements
 
 Ensure you have the following installed:
 
