@@ -1,0 +1,17 @@
+Spark 
+
+- Use clusters which act as one machine
+- Distribute the data amoung machines
+
+- Spark Architecture
+    Spark has a master–worker architecture, where the master (called the Driver) controls the whole application.
+    The Driver sends tasks to many Worker nodes, which actually process the data.
+    Each Worker runs Executors, which are mini-processors responsible for running tasks and storing data in memory.
+    All nodes communicate through a Cluster Manager (like Spark Standalone, YARN, or Kubernetes), which manages resources.
+    Together, this setup lets Spark split big jobs into small tasks and process them in parallel, making everything much faster.
+
+- Benefits of Spark
+    In-Memory Computartion
+    Lazy Evaluation
+    Fault Tolerant
+    Partitioning 
